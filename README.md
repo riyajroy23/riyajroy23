@@ -4,7 +4,7 @@
 <div>
   <h2> About me  </h2>
   
-  <div>I'm Riya, a rising third-year student at Northeastern University pursuing a Bachelor's degree in Computer Science. I am passionate about software development and machine learning, which I have been exploring through coursework, personal research,    and collaborative projects. I also have work experience at two startups, where I was able to dive deep into the complex idea of making AI explainable while developing full-stack web applications. These experiences have provided me a strong understanding of the fundamental algorithms and tools composing these technical stacks and how to thrive in fast-paced, collaborative environments. I’m actively seeking new opportunities to grow my skills, especially in the intersection of healthcare and technology and its vital real-world applications.</div>
+  <div>I'm Riya, a third-year student at Northeastern University pursuing a Bachelor's degree in Computer Science. I am passionate about software development and machine learning, which I have been exploring through coursework, personal research,    and collaborative projects. I also have work experience at two startups, where I was able to dive deep into the complex idea of making AI explainable while developing full-stack web applications. These experiences have provided me a strong understanding of the fundamental algorithms and tools composing these technical stacks and how to thrive in fast-paced, collaborative environments. I’m actively seeking new opportunities to grow my skills, especially in the intersection of healthcare and technology and its vital real-world applications.</div>
 
 <h3> Organizations </h3>
   <div>
