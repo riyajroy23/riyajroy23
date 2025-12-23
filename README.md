@@ -1,26 +1,25 @@
-<h1 align="center">👋<br>Hi, I'm  <a href="https://www.linkedin.com/in/riyajroy/">Riya</a>!</h1>
+<h1 align="center"><br>Hi, I'm  <a href="https://www.linkedin.com/in/riyajroy/">Riya</a>!</h1>
 <div align="center">🎓 <i><b>Honors CS student with AI concentration @ Northeastern University</b></i> <br></div>
  
 <div>
   <h2> About me  </h2>
   
-  <div>I'm Riya, a third-year student at Northeastern University pursuing a Bachelor's degree in Computer Science. I am passionate about software development and machine learning, which I have been exploring through coursework, personal research,    and collaborative projects. I also have work experience at two startups, where I was able to dive deep into the complex idea of making AI explainable while developing full-stack web applications. These experiences have provided me a strong understanding of the fundamental algorithms and tools composing these technical stacks and how to thrive in fast-paced, collaborative environments. I’m actively seeking new opportunities to grow my skills, especially in the intersection of healthcare and technology and its vital real-world applications.</div>
+  <div>I'm Riya, a third-year student at Northeastern University pursuing a Bachelor's degree in Computer Science. I am passionate about software development and machine learning, which I have been exploring through coursework, personal research,    and collaborative projects. I also have work experience at two startups, where I was able to dive deep into the complex goal of making AI explainable and also gain hands-on experience in developing full-stack web applications. These experiences have provided me a strong understanding of the fundamental algorithms and tools composing these technical stacks and how to thrive in fast-paced, collaborative environments. I’m actively seeking new opportunities to grow my skills, especially in the intersection of healthcare and technology.</div>
 
 <h3> Organizations </h3>
   <div>
   <p align="left">
-  👩‍💻 Rewriting the Code Member <br>
-  <img src="https://codepath.org/favicon.ico" width="16" height="16"> CodePath Alumni <br>
-  <img src="https://inspiritai.com/favicon.ico" width="16" height="16"> Inspirit AI Ambassador <br>
-  📍 Northeastern Forge Software Product Lab Developer <br>
-  📍 Northeastern Women In Tech <br>
+  👩‍💻 Rewriting the Code - Member <br>
+  <img src="https://codepath.org/favicon.ico" width="16" height="16"> CodePath - Alumni <br>
+  <img src="https://inspiritai.com/favicon.ico" width="16" height="16"> Inspirit AI - Ambassador <br>
+  📍 Northeastern Forge - Software Product Lab Lead <br>
   </p>
   </div>
 
 <h3> Interests </h3>
-  <p>Technical: 💻 Software Engineering, 🧠🤖 Artificial Intelligence/Machine Learning, 🌐 Web/App Development
+  <p>Technical: 💻 Software Engineering, 🧠 Artificial Intelligence/Machine Learning, 🌐 Web/App Development
   </p>
-  <p>Others: 🎂 Baking, 🩰 Dancing, 🧶 Crocheting, 📖 Reading
+  <p>Others: Baking, Dancing, Crocheting, Reading
   </p>
 </div>
 
