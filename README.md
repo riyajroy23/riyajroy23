@@ -4,22 +4,22 @@
 <div>
   <h2> About me  </h2>
   
-  <div>I'm Riya, a third-year student at Northeastern University pursuing a Bachelor's degree in Computer Science. I am passionate about software development and machine learning, which I have been exploring through coursework, personal research,    and collaborative projects. I also have work experience at two startups, where I was able to dive deep into the complex goal of making AI explainable and also gain hands-on experience in developing full-stack web applications. These experiences have provided me a strong understanding of the fundamental algorithms and tools composing these technical stacks and how to thrive in fast-paced, collaborative environments. I’m actively seeking new opportunities to grow my skills, especially in the intersection of healthcare and technology.</div>
+  <div>I'm Riya, a 4th year student at Northeastern University pursuing a Bachelor's degree in Computer Science, with a concentration in AI. I am passionate about software development and machine learning, which I have been exploring through coursework, personal research, and collaborative projects. I also have work experience at two startups, where I was able to dive into the complex goal of making AI explainable. Through my internship experiences at New Balance and John Hancock, I also gain hands-on experience in developing machine learning models and production-ready full-stack web applications. These experiences have provided me a strong understanding of the fundamental algorithms and best code practices, showing me how to thrive in fast-paced, collaborative environments. I’m actively seeking new opportunities to grow my skills full-time.</div>
 
 <h3> Organizations </h3>
   <div>
   <p align="left">
-  👩‍💻 Rewriting the Code - Member <br>
+  Rewriting the Code - Member <br>
   <img src="https://codepath.org/favicon.ico" width="16" height="16"> CodePath - Alumni <br>
   <img src="https://inspiritai.com/favicon.ico" width="16" height="16"> Inspirit AI - Ambassador <br>
-  📍 Northeastern Forge - Software Product Lab Lead <br>
+  Northeastern Forge - Software Product Team Lead <br>
   </p>
   </div>
 
 <h3> Interests </h3>
-  <p>Technical: 💻 Software Engineering, 🧠 Artificial Intelligence/Machine Learning, 🌐 Web/App Development
+  <p>Technical: Software Engineering, AI/Machine Learning, Web/App Development
   </p>
-  <p>Others: Baking, Dancing, Crocheting, Reading
+  <p>Others: Baking, Bollywood Dance, Crocheting, Reading
   </p>
 </div>
 
@@ -80,6 +80,7 @@
 </div>
 
 <div align="center">
+  <a href="https://riyaroy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" target="_blank" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/riyajroy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:roy.riy@northeastern.edu"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 </div>
